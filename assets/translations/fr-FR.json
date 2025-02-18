@@ -1,0 +1,23 @@
+{
+  "select_a_profile_to_watch": "Sélectionnez un profil à regarder.",
+  "add_profile": "Ajouter un profil",
+  "profile": "Profil",
+  "cancel": "Annuler",
+  "save": "Enregistrer",
+  "home": "Accueil",
+  "to_be_released": "À venir",
+  "download": "Télécharger",
+  "search": "Rechercher",
+  "general_settings": "Paramètres généraux",
+  "edit_profile": "Modifier le profil",
+  "change_language": "Changer de langue",
+  "connect_a_new_device": "Connecter un nouvel appareil",
+  "app_permission_settings": "Paramètres des autorisations de l'application",
+  "logout": "Se déconnecter",
+  "agree_to_terms_of_use": "Accepter les conditions d'utilisation",
+  "privacy_policy": "Politique de confidentialité",
+  "guide_to_using_open_source": "Guide pour utiliser le code source ouvert",
+  "other_inquiries": "Autres demandes",
+  "there_is_no_profile": "Aucun profil disponible.",
+  "enter_a_profile_name": "Entrez un nom de profil"
+}

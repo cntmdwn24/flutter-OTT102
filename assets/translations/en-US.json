@@ -1,0 +1,23 @@
+{
+  "select_a_profile_to_watch": "Select a profile to watch.",
+  "add_profile": "Add profile",
+  "profile": "Profile",
+  "cancel": "Cancel",
+  "save": "Save",
+  "home": "HOME",
+  "to_be_released": "To be released",
+  "download": "Download",
+  "search": "Search",
+  "general_settings": "General settings",
+  "edit_profile": "Edit profile",
+  "change_language": "Change language",
+  "connect_a_new_device": "Connect a new device",
+  "app_permission_settings": "App permission settings",
+  "logout": "Logout",
+  "agree_to_terms_of_use": "Agree to terms of use",
+  "privacy_policy": "Privacy policy",
+  "guide_to_using_open_source": "Guide to using open source",
+  "other_inquiries": "Other inquiries",
+  "there_is_no_profile": "There is no profile.",
+  "enter_a_profile_name": "Enter a profile name"
+}

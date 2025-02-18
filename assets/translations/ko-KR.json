@@ -1,0 +1,23 @@
+{
+  "select_a_profile_to_watch": "시청할 프로필을 선택하세요.",
+  "add_profile": "프로필 추가",
+  "profile": "프로필",
+  "cancel": "취소",
+  "save": "저장하기",
+  "home": "홈",
+  "to_be_released": "공개예정",
+  "download": "다운로드",
+  "search": "검색",
+  "general_settings": "일반설정",
+  "edit_profile": "프로필 수정",
+  "change_language": "언어변경",
+  "connect_a_new_device": "새 기기 연결하기",
+  "app_permission_settings": "앱 권한 설정",
+  "logout": "로그아웃",
+  "agree_to_terms_of_use": "이용약관 동의",
+  "privacy_policy": "개인정보처리방침",
+  "guide_to_using_open_source": "오픈소스 활용 안내",
+  "other_inquiries": "기타 문의",
+  "there_is_no_profile": "프로필이 없습니다.",
+  "enter_a_profile_name": "프로필 이름을 입력해주세요"
+}

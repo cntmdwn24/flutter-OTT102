@@ -1,0 +1,23 @@
+{
+  "select_a_profile_to_watch": "視聴するプロフィールを選択してください。",
+  "add_profile": "プロフィール追加",
+  "profile": "プロフィール",
+  "cancel": "キャンセル",
+  "save": "保存",
+  "home": "ホーム",
+  "to_be_released": "公開予定",
+  "download": "ダウンロード",
+  "search": "検索",
+  "general_settings": "一般設定",
+  "edit_profile": "プロフィール編集",
+  "change_language": "言語変更",
+  "connect_a_new_device": "新しいデバイスを接続",
+  "app_permission_settings": "アプリの権限設定",
+  "logout": "ログアウト",
+  "agree_to_terms_of_use": "利用規約に同意",
+  "privacy_policy": "プライバシーポリシー",
+  "guide_to_using_open_source": "オープンソース利用ガイド",
+  "other_inquiries": "その他のお問い合わせ",
+  "there_is_no_profile": "プロフィールがありません。",
+  "enter_a_profile_name": "プロフィール名を入力してください"
+}
