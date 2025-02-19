@@ -23,35 +23,33 @@ class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-        appBar: AppBar(
-          backgroundColor: grayColor,
-          title: Image.asset(
-            'assets/images/showtime_logo.png',
-          ),
-          actions: [
-            SizedBox(
-              width: MediaQuery
-                  .sizeOf(context)
-                  .width - 60,
-              child: ListView.builder(
-                  shrinkWrap: true,
-                  scrollDirection: Axis.horizontal,
-                  itemCount: mainProvider.genreList.length,
-                  itemBuilder: (context, index) {
-                    return Container(
-                      alignment: Alignment.center,
-                      padding: const EdgeInsets.only(right: 10),
-                      child: Text(
-                        mainProvider.genreList[index].name,
-                        style: TextStyle(color: Colors.white, fontSize: 16),
-                      ),
-                    );
-                  }),
-            )
-          ],
+      appBar: AppBar(
+        backgroundColor: grayColor,
+        title: Image.asset(
+          'assets/images/showtime_logo.png',
         ),
-        backgroundColor: backgroundColor,
-        body: mainProvider.topRatedMovieList.isNotEmpty ? SingleChildScrollView(
+        actions: [
+          SizedBox(
+            width: MediaQuery.sizeOf(context).width - 60,
+            child: ListView.builder(
+                shrinkWrap: true,
+                scrollDirection: Axis.horizontal,
+                itemCount: mainProvider.genreList.length,
+                itemBuilder: (context, index) {
+                  return Container(
+                    alignment: Alignment.center,
+                    padding: const EdgeInsets.only(right: 10),
+                    child: Text(
+                      mainProvider.genreList[index].name,
+                      style: TextStyle(color: Colors.white, fontSize: 16),
+                    ),
+                  );
+                }),
+          )
+        ],
+      ),
+      backgroundColor: backgroundColor,
+      /*body: mainProvider.topRatedMovieList.isNotEmpty ? SingleChildScrollView(
           child: Column(
             children: [
               SizedBox(),
@@ -68,6 +66,7 @@ class _HomeScreenState extends State<HomeScreen> {
               Text('', style: TextStyle(fontSize: 16, color: Colors.white),)
             ],
           ),
-        ));
+        )*/
+    );
   }
 }
